@@ -1,0 +1,1 @@
+A list of the problems I've once solved from the [Rosalind](http://rosalind.info/problems/list-view/) site. Mostly in python, but that might change in the future.
